@@ -5,7 +5,7 @@ export default function About() {
         <h2 className="text-3xl font-bold mb-8 text-center">About HyperCluster</h2>
         <div className="max-w-3xl mx-auto text-center">
           <p className="mb-4">
-            HyperCluster is at the forefront of AI research, dedicated to developing cutting-edge technologies that push the boundaries of what's possible in artificial intelligence.
+            HyperCluster is at the forefront of AI research, dedicated to developing cutting-edge technologies that push the boundaries of artificial intelligence.
           </p>
           <p>
             Our team of world-class researchers and engineers work tirelessly to solve complex problems and create innovative solutions that have the potential to transform industries and improve lives.

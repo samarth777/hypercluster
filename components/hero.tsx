@@ -6,7 +6,7 @@ export default function Hero() {
           Think Intelligent.
         </h1>
         <p className="text-xl md:text-2xl text-gray-400 mb-12 max-w-3xl mx-auto">
-          HyperCluster is pioneering the next generation of AI research, pushing the boundaries of what's possible with artificial intelligence.
+          HyperCluster is pioneering the next generation of AI research, pushing the boundaries of artificial intelligence.
         </p>
         <div className="relative">
           <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-violet-500 blur-3xl opacity-20" />
